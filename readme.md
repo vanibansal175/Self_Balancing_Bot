@@ -37,21 +37,11 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 
 ---
 
-## Things to know
+## Why I made it?
 
-- PID values need to be tuned based on your setup  
-- The robot may not balance properly at first, which is expected  
-- This project is mainly for learning and experimentation  
+- it is something i want to make because i think balencing a bot on two wheels is somewhat challenging and i never did this project before so i want to do it.
 
 ---
-
-## Final note
-
-This project is a good starting point for understanding control systems and robotics.  
-It may take some time to get stable results, but the process is useful and rewarding.
-
----
-
 ## Photos
 
 ![alt text](image.png)
