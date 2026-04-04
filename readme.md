@@ -42,6 +42,24 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 - it is something i want to make because i think balencing a bot on two wheels is somewhat challenging and i never did this project before so i want to do it.
 
 ---
+
+## Photos
+
+![alt text](image.png)
+#This image is the cad which ib made by my own to simulate that how my project will look like once it will be completed. I also build it so that i can get the estimate size of base structure so that i can place all components on there place easily.
+--
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e3ec1565-ace8-4549-a89a-7c352e9475fa" />
+#I created this circuit diagram in this format to visualize how the final project will look and function as a complete system. It also helps me estimate the base structure size and organize component placement efficiently before actual implementation.
+---
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5a22dc27-99c0-44e2-8550-f378307bba81" />
+---
+
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0705bb25-7d3c-43af-9435-952958f0c435" />
+#I wrote the code in this structured format to clearly simulate and control how the complete system will function once the project is implemented. It also helps in organizing logic, debugging easily, and ensuring all components interact properly before real-world deployment.
+
+---
+
+
 ## Components List 
 
 | Component                     | Quantity     | Min Price (INR) | Purchase Link |
@@ -60,12 +78,6 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 
 **Estimated Total Cost:** ~₹1,440
 ---
-## Photos
-
-![alt text](image.png)
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e3ec1565-ace8-4549-a89a-7c352e9475fa" />
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5a22dc27-99c0-44e2-8550-f378307bba81" />
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0705bb25-7d3c-43af-9435-952958f0c435" />
 
 
 
