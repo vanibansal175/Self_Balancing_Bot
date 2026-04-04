@@ -63,3 +63,10 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 ## Photos
 
 ![alt text](image.png)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e3ec1565-ace8-4549-a89a-7c352e9475fa" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5a22dc27-99c0-44e2-8550-f378307bba81" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0705bb25-7d3c-43af-9435-952958f0c435" />
+
+
+
+
