@@ -42,7 +42,7 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 - it is something i want to make because i think balencing a bot on two wheels is somewhat challenging and i never did this project before so i want to do it.
 
 ---
-## 🔧 Components List
+## Components List 
 
 | Component                     | Quantity     | Min Price (INR) | Purchase Link |
 |-----------------------------|-------------|-----------------|--------------|
