@@ -1,0 +1,12 @@
+Component,Quantity,Min Price (INR),Purchase Link
+Arduino Uno/Nano,1,250,https://robu.in/product/arduino-nano-v3-0-clone/
+MPU6050 Sensor,1,120,https://robu.in/product/mpu6050-module/
+DC Gear Motors,2,150,https://www.amazon.in/dp/B07H7L5J4X
+Motor Driver (L298N/L293D),1,120,https://robu.in/product/l298n-motor-driver-module/
+Wheels,2,100,https://www.amazon.in/dp/B07H9LZV9F
+Chassis/Frame,1,250,https://www.amazon.in/dp/B08L5VQK9P
+Battery (Li-ion/LiPo),1,200,https://robu.in/product/18650-li-ion-battery/
+Voltage Regulator,1,50,https://robu.in/product/lm2596-step-down-module/
+Jumper Wires,As needed,80,https://www.amazon.in/dp/B01EV70C78
+Breadboard/PCB,1,100,https://www.amazon.in/dp/B01EV6LJ7G
+Switch,1,20,https://robu.in/product/toggle-switch/
