@@ -39,8 +39,10 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 
 ## Why I made it?
 
-- it is something i want to make because i think balencing a bot on two wheels is somewhat challenging and i never did this project before so i want to do it.
-
+	-	I chose this project because balancing a two-wheeled robot is a challenging and engaging problem.
+	-	It involves learning key concepts like control systems, sensor integration, and real-time feedback.
+	-	I have not built a self-balancing bot before, so this is a great opportunity to explore something new.
+	-	This project will help me strengthen my practical skills in robotics, coding, and system design.
 ---
 
 ## Photos
