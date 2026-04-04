@@ -48,10 +48,10 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 ## Photos
 
 ![alt text](image.png)
-#This image is the cad which ib made by my own to simulate that how my project will look like once it will be completed. I also build it so that i can get the estimate size of base structure so that i can place all components on there place easily.
+### This image is the cad which ib made by my own to simulate that how my project will look like once it will be completed. I also build it so that i can get the estimate size of base structure so that i can place all components on there place easily.
 --
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e3ec1565-ace8-4549-a89a-7c352e9475fa" />
-## I created this circuit diagram in this format to visualize how the final project will look and function as a complete system. It also helps me estimate the base structure size and organize component placement efficiently before actual implementation.
+### I created this circuit diagram in this format to visualize how the final project will look and function as a complete system. It also helps me estimate the base structure size and organize component placement efficiently before actual implementation.
 ---
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5a22dc27-99c0-44e2-8550-f378307bba81" />
 ---
